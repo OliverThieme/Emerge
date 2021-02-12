@@ -1,2 +1,25 @@
-The following links are associated with the project emerge:
+The following links are associated with the project EMERGE:
 
+Electrode:
+https://github.com/OliverThieme/ICG_electrode.git
+
+Schematic and Layout for ICG:
+https://github.com/OliverThieme/BIOIMP_ESP32_WROOM_Layout.git
+
+Schematic and Layout for ECG:
+https://github.com/OliverThieme/BIOPOT_ESP32_WROOM_Layout.git
+
+NTP-Server:
+https://github.com/OliverThieme/ntpserver.git
+
+AccessPoint_dnsmasq:
+https://github.com/OliverThieme/AccessPoint_dnsmasq.git
+
+GUI for ICG:
+https://github.com/OliverThieme/BIOIMP_GUI.git
+
+GUI for EKG: 
+https://github.com/OliverThieme/BIOPOT_GUI.git
+
+Software for ESP:
+https://github.com/OliverThieme/ESP-IDF_Base.git
